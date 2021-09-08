@@ -1,16 +1,16 @@
-### Hi there 👋
+#### Hello there 👋
 
-<!--
-**nvalchev/nvalchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nikolay Valchev and I am a web developer.
 
-Here are some ideas to get you started:
+#### Skills:
+- ⭐WordPress/PHP/HTML
+- ⭐JS
+- ⭐MySQL
+- CSS
+- Vue.js
+- Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Interests:
+- 🎮 Games
+- 🎬 Movies
+- 💻 Coding
